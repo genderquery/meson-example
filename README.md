@@ -1,2 +1,3 @@
 # meson-example
-A simple example using the Meson build system with a library, executable, and unit tests.
+A simple example using the [Meson build system](https://mesonbuild.com)
+with a library, executable, and unit tests.
